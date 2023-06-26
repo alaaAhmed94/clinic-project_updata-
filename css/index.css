@@ -378,6 +378,7 @@ header ul li:nth-child(3):hover .play_list {
     font-size: 55px;
     font-weight: bold;
     color: #000;
+/*     width: 80%; */
 }
 
 .section_one .left h1 span {
